@@ -40,6 +40,25 @@ The study was conducted as part of a group project for **[Course Name]**, with m
 ---
 
 ## 📂 Repository Structure
+📦 resistor-precision-analysis
+│
+├── analysis/               # MATLAB scripts for regression analysis
+│   └── BE2100_FP1.m
+│
+├── data/                   # Raw resistor measurement data
+│   └── resistor_data.csv
+│
+├── figures/                # Generated plots & images
+│   ├── regression_plot.png
+│   ├── boxplot.png
+│   └── histogram.png
+│
+├── report/                 # Final report & presentation slides
+│   ├── final_report.pdf
+│   └── presentation_slides.pdf
+│
+├── README.md               # Project documentation
+└── LICENSE                 # License file (MIT, Apache, etc.)
 
 
 ## 🧑‍💻 Author
