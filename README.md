@@ -38,7 +38,6 @@ The study was conducted as part of a group project for **[Course Name]**, with m
 - **Excel/Spreadsheets** – Data recording and organization.
 
 ---
-
 ## 📂 Repository Structure
 📦 resistor-precision-analysis
 │
@@ -54,10 +53,10 @@ The study was conducted as part of a group project for **[Course Name]**, with m
 │   └── [histogram.png](figures/histogram.png)
 │
 ├── [report/](report)                   # Final report & presentation slides
-│   ├── [final_report.pdf](report/final_report.pdf)
-│   └── [presentation_slides.pdf](report/presentation_slides.pdf)
+│   ├── [resistor_regression_report.pdf](report/resistor_regression_report.pdf)
+│   └── [resistor_variance_slides.pdf](report/resistor_variance_slides.pdf)
 │
-├── [README.md](README.md)               # Project documentation
+├── [README.md](README.md)              # Project documentation
 └── [LICENSE](LICENSE)                   # License file (MIT, Apache, etc.)
 
 ## 🧑‍💻 Author
