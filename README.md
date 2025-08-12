@@ -74,6 +74,23 @@ The study was conducted as part of a group project for **[Course Name]**, with m
 | 📄 [resistor_variance_slides.pdf](report/resistor_variance_slides.pdf) | Presentation slides |
 | 📄 [README.md](README.md) | Project documentation |
 
+## 📂 Repository Structure
+
+| **Folder/File** | **Description** |
+|-----------------|-----------------|
+| 📁 **[analysis/](analysis/)** | MATLAB scripts for regression analysis |
+| 📄 [BE2100_FP1.m](analysis/BE2100_FP1.m) | MATLAB code for regression |
+| 📁 **[data/](data/)** | Raw resistor measurement data |
+| 📊 [resistor_data.csv](data/resistor_data.csv) | Dataset of resistor measurements |
+| 📁 **figures/** | Generated plots & images:<br><br> 
+| &emsp;🖼 [REGRESSION_PLOT.png](figures/REGRESSION_PLOT.png) | Regression plot |
+| &emsp;🖼 [BOJACK_T-TEST.png](figures/BOJACK_T-TEST.png) | BOJACK T-Test table |
+| &emsp;🖼 [BOJACK_ANOVA_TABLE.png](figures/BOJACK_ANOVA_TABLE.png) | BOJACK ANOVA table |
+| &emsp;🖼 [ESSMETUIN_T-TEST.png](figures/ESSMETUIN_T-TEST.png) | ESSMETUIN T-Test table |
+| &emsp;🖼 [ESSMETUIN_ANOVA_TABLE.png](figures/ESSMETUIN_ANOVA_TABLE.png) | ESSMETUIN ANOVA table |
+| 📄 [resistor_regression_report.pdf](report/resistor_regression_report.pdf) | Final project report |
+| 📄 [resistor_variance_slides.pdf](report/resistor_variance_slides.pdf) | Presentation slides |
+| 📄 [README.md](README.md) | Project documentation |
 
 **Abid Ahmad**  
 Electrical & Computer Engineering  
