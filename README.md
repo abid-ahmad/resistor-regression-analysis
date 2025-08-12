@@ -56,7 +56,6 @@ The study was conducted as part of a group project for **[Course Name]**, with m
 | 📄 [README.md](README.md) | Project documentation |
 | 📄 [LICENSE](LICENSE) | License file (MIT, Apache, etc.) |
 
-## 🧑‍💻 Author
 
 **Abid Ahmad**  
 Electrical & Computer Engineering  
