@@ -1,93 +1,46 @@
-# 📊 Regression Analysis: Resistor Brand Error Comparison
+# Resistor Precision Analysis – Regression Study (BOJACK vs ESSMETUIN)
 
-This repository showcases my **individual contribution** to a group project titled **"Variance in Resistors' Resistance"**.  
-I conducted a complete **regression and statistical analysis** using MATLAB to evaluate whether **average percent error** varies with resistance across two brands: **BOJACK** and **ESSMETUIN**.
+## 📌 Project Overview
+This project investigates the consistency and precision of resistors from two brands — **BOJACK** and **ESSMETUIN** — at three nominal resistance values: **10 Ω, 2 kΩ, and 1 MΩ**.  
+We used **statistical analysis** and **data visualization** to compare measurement deviations and determine if average percent error increases with resistance.
 
----
-
-## 🎯 Objective
-
-To determine if resistor accuracy degrades as resistance increases, and whether any brand performs more consistently than the other.
+The study was conducted as part of a group project for **[Course Name]**, with my individual contribution focused on **regression analysis using MATLAB**.
 
 ---
 
-## 📁 Dataset
-
-We tested 10 resistors from each brand at 3 nominal values:
-
-- 10Ω  
-- 2kΩ  
-- 1MΩ  
-
-From each batch, we calculated **average percent error** for BOJACK and ESSMETUIN and modeled error as a function of resistance.
-
----
-
-## ⚙️ Methodology
-
-- **Platform**: MATLAB  
-- **Analysis Performed**:
-  - Linear Regression
-  - t-tests on slope coefficients
-  - ANOVA for model fit
-  - Log-scaled plots for clarity across magnitudes
-
-- **Assumptions**:
-  - Independent measurement error
-  - Linearity across log-resistance
-  - Equal variance within brand
+## 🔍 My Role in the Project
+- Performed **regression analysis** to test the relationship between resistance and average percent error.
+- Developed MATLAB scripts to:
+  - Calculate **average percent error** for each resistor type.
+  - Perform **t-tests** and **ANOVA** for both brands.
+  - Create regression plots with **logarithmic x-axis scaling** for clarity.
+- Wrote the **Regression Analysis** section of the final report, including:
+  - **Justification** for method choice.
+  - **Assumptions** of the regression model.
+  - **Interpretation** of results.
+- Designed the **"Average Percent Error vs Resistance"** plot with fitted trend lines for both brands.
 
 ---
 
-## 📉 Results
-
-### 🔴 ESSMETUIN
-
-- **Regression Coefficients (T-Test)**  
-  ![ESSMETUIN T-Test](./img/essmetuin_ttest.png)
-
-- **ANOVA Table**  
-  ![ESSMETUIN ANOVA](./img/essmetuin_anova.png)
-
-- **Findings**:  
-  - Slope ≈ -2.37e-07  
-  - **p-value** = 0.82667 → Fail to reject H₀ (no significant trend)
-  - ESSMETUIN errors appear relatively **flat** across resistance
+## 📊 Regression Results Summary
+- **Goal:** Determine if average percent error increases consistently with resistance.
+- **Method:** Simple linear regression in MATLAB (3 resistance levels, 30 samples each).
+- **Key Findings:**
+  - p-values > 0.05 for all cases → **no statistically significant trend**.
+  - Slopes close to zero, low R², and low F-statistics indicate **very weak correlation**.
+  - Conclusion: **Percent error does not increase consistently** with resistance.
 
 ---
 
-### 🔵 BOJACK
-
-- **Regression Coefficients (T-Test)**  
-  ![BOJACK T-Test](./img/bojack_ttest.png)
-
-- **ANOVA Table**  
-  ![BOJACK ANOVA](./img/bojack_anova.png)
-
-- **Findings**:  
-  - Slope ≈ +2.91e-07  
-  - **p-value** = 0.76411 → Fail to reject H₀
-  - BOJACK showed more variance, but still statistically **insignificant**
+## 🛠️ Tools & Technologies
+- **MATLAB** – Data analysis, regression modeling, and plotting.
+- **Multimeter** – Resistance measurement.
+- **Excel/Spreadsheets** – Data recording and organization.
 
 ---
 
-### 📊 Final Regression Plot
+## 📂 Repository Structure
 
-![Regression Plot](./img/regression_plot.png)
-
-- No clear upward or downward trend
-- BOJACK fit line slightly upward; ESSMETUIN slightly downward
-- Overall: **errors do not consistently increase with resistance**
-
----
-
-## 🧠 Conclusion
-
-> "There is no statistically significant evidence that average percent error increases with resistance for either BOJACK or ESSMETUIN resistors."
-
-Both brands remain within tolerance across magnitudes, but BOJACK showed **slightly higher variability**.
-
----
 
 ## 🧑‍💻 Author
 
