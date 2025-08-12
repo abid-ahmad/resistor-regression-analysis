@@ -1,4 +1,3 @@
-
 # Resistor Precision Analysis – Regression Study (BOJACK vs ESSMETUIN)
 
 ## 📌 Project Overview
@@ -30,6 +29,10 @@ The study was conducted as part of a group project for **[Course Name]**, with m
   - p-values > 0.05 for all cases → **no statistically significant trend**.
   - Slopes close to zero, low R², and low F-statistics indicate **very weak correlation**.
   - Conclusion: **Percent error does not increase consistently** with resistance.
+- **Why Logarithmic Scale:** The resistor dataset spans three orders of magnitude (10 Ω to 1 MΩ). A standard linear scale would compress low resistance values, making them hard to compare. Using a log scale:
+  1. Improves visibility of both low and high resistance points.
+  2. Makes proportional differences easier to interpret.
+  3. Reduces skewness in regression visualization.
 
 ---
 
@@ -46,19 +49,19 @@ The study was conducted as part of a group project for **[Course Name]**, with m
 |-----------------|-----------------|
 | 📄 [BE2100_FP1.m](analysis/BE2100_FP1.m) | MATLAB code for regression |
 | 📊 [resistor_data_bojack_essmetuin.csv](data/resistor_data_bojack_essmetuin.csv) | Dataset of resistor measurements (BOJACK & ESSMETUIN) |
-| 📁 **Figures** | Generated plots & images:<br><br> 
-| &emsp;🖼 [REGRESSION_PLOT.png](figures/REGRESSION_PLOT.png) | Regression plot |
-| &emsp;🖼 [BOJACK_T-TEST.png](figures/BOJACK_T-TEST.png) | BOJACK T-Test table |
-| &emsp;🖼 [BOJACK_ANOVA_TABLE.png](figures/BOJACK_ANOVA_TABLE.png) | BOJACK ANOVA table |
-| &emsp;🖼 [ESSMETUIN_T-TEST.png](figures/ESSMETUIN_T-TEST.png) | ESSMETUIN T-Test table |
-| &emsp;🖼 [ESSMETUIN_ANOVA_TABLE.png](figures/ESSMETUIN_ANOVA_TABLE.png) | ESSMETUIN ANOVA table |
+| 📁 **Figures** | Generated plots & statistical tables |
+| &emsp;| 🖼 [REGRESSION_PLOT.png](figures/REGRESSION_PLOT.png) – Regression plot |
+| &emsp;| 🖼 [BOJACK_T-TEST.png](figures/BOJACK_T-TEST.png) – BOJACK T-Test table |
+| &emsp;| 🖼 [BOJACK_ANOVA_TABLE.png](figures/BOJACK_ANOVA_TABLE.png) – BOJACK ANOVA table |
+| &emsp;| 🖼 [ESSMETUIN_T-TEST.png](figures/ESSMETUIN_T-TEST.png) – ESSMETUIN T-Test table |
+| &emsp;| 🖼 [ESSMETUIN_ANOVA_TABLE.png](figures/ESSMETUIN_ANOVA_TABLE.png) – ESSMETUIN ANOVA table |
 | 📄 [resistor_regression_report.pdf](report/resistor_regression_report.pdf) | Final project report |
 | 📄 [resistor_variance_slides.pdf](report/resistor_variance_slides.pdf) | Presentation slides |
 | 📄 [README.md](README.md) | Project documentation |
 
+---
 
 **Abid Ahmad**  
 Electrical & Computer Engineering  
 Wayne State University  
 🔬 Focus: Data-driven hardware reliability & embedded systems
-
