@@ -50,11 +50,9 @@ The study was conducted as part of a group project for **[Course Name]**, with m
 | 🖼 [regression_plot.png](figures/regression_plot.png) | Regression plot |
 | 🖼 [boxplot.png](figures/boxplot.png) | Boxplot |
 | 🖼 [histogram.png](figures/histogram.png) | Histogram |
-| 📁 **[report/](report/)** | Final report & presentation slides |
 | 📄 [resistor_regression_report.pdf](report/resistor_regression_report.pdf) | Final project report |
 | 📄 [resistor_variance_slides.pdf](report/resistor_variance_slides.pdf) | Presentation slides |
 | 📄 [README.md](README.md) | Project documentation |
-| 📄 [LICENSE](LICENSE) | License file (MIT, Apache, etc.) |
 
 
 **Abid Ahmad**  
