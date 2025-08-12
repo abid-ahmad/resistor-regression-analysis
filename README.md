@@ -63,7 +63,7 @@ The study was conducted as part of a group project for **[Course Name]**, with m
 | 📄 [BE2100_FP1.m](analysis/BE2100_FP1.m) | MATLAB code for regression |
 | 📁 **[data/](data/)** | Raw resistor measurement data |
 | 📊 [resistor_data.csv](data/resistor_data.csv) | Dataset of resistor measurements |
-| 📁 **[figures/](figures/)** | Generated plots & images |
+| | 📁 **figures/** | Generated plots & images |
 | 🖼 [REGRESSION_PLOT.png](figures/REGRESSION_PLOT.png) | Regression plot |
 | 🖼 [BOJACK_T-TEST.png](figures/BOJACK_T-TEST.png) | BOJACK T-Test table |
 | 🖼 [BOJACK_ANOVA_TABLE.png](figures/BOJACK_ANOVA_TABLE.png) | BOJACK ANOVA table |
