@@ -39,40 +39,6 @@ The study was conducted as part of a group project for **[Course Name]**, with m
 - **Excel/Spreadsheets** – Data recording and organization.
 
 ---
-## 📂 Repository Structure
-
-| **Folder/File** | **Description** |
-|-----------------|-----------------|
-| 📁 **[analysis/](analysis/)** | MATLAB scripts for regression analysis |
-| 📄 [BE2100_FP1.m](analysis/BE2100_FP1.m) | MATLAB code for regression |
-| 📁 **[data/](data/)** | Raw resistor measurement data |
-| 📊 [resistor_data.csv](data/resistor_data.csv) | Dataset of resistor measurements |
-| 📁 **[figures/](figures/)** | Generated plots & images |
-| 🖼 [regression_plot.png](figures/regression_plot.png) | Regression plot |
-| 🖼 [boxplot.png](figures/boxplot.png) | Boxplot |
-| 🖼 [histogram.png](figures/histogram.png) | Histogram |
-| 📄 [resistor_regression_report.pdf](report/resistor_regression_report.pdf) | Final project report |
-| 📄 [resistor_variance_slides.pdf](report/resistor_variance_slides.pdf) | Presentation slides |
-| 📄 [README.md](README.md) | Project documentation |
-
-
-## 📂 Repository Structure
-
-| **Folder/File** | **Description** |
-|-----------------|-----------------|
-| 📁 **[analysis/](analysis/)** | MATLAB scripts for regression analysis |
-| 📄 [BE2100_FP1.m](analysis/BE2100_FP1.m) | MATLAB code for regression |
-| 📁 **[data/](data/)** | Raw resistor measurement data |
-| 📊 [resistor_data.csv](data/resistor_data.csv) | Dataset of resistor measurements |
-| | 📁 **figures/** | Generated plots & images |
-| 🖼 [REGRESSION_PLOT.png](figures/REGRESSION_PLOT.png) | Regression plot |
-| 🖼 [BOJACK_T-TEST.png](figures/BOJACK_T-TEST.png) | BOJACK T-Test table |
-| 🖼 [BOJACK_ANOVA_TABLE.png](figures/BOJACK_ANOVA_TABLE.png) | BOJACK ANOVA table |
-| 🖼 [ESSMETUIN_T-TEST.png](figures/ESSMETUIN_T-TEST.png) | ESSMETUIN T-Test table |
-| 🖼 [ESSMETUIN_ANOVA_TABLE.png](figures/ESSMETUIN_ANOVA_TABLE.png) | ESSMETUIN ANOVA table |
-| 📄 [resistor_regression_report.pdf](report/resistor_regression_report.pdf) | Final project report |
-| 📄 [resistor_variance_slides.pdf](report/resistor_variance_slides.pdf) | Presentation slides |
-| 📄 [README.md](README.md) | Project documentation |
 
 ## 📂 Repository Structure
 
