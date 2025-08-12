@@ -87,7 +87,7 @@ The study was conducted as part of a group project for **[Course Name]**, with m
 | &emsp;🖼 [BOJACK_T-TEST.png](figures/BOJACK_T-TEST.png) | BOJACK T-Test table |
 | &emsp;🖼 [BOJACK_ANOVA_TABLE.png](figures/BOJACK_ANOVA_TABLE.png) | BOJACK ANOVA table |
 | &emsp;🖼 [ESSMETUIN_T-TEST.png](figures/ESSMETUIN_T-TEST.png) | ESSMETUIN T-Test table |
-| &emsp;🖼 [ESSMETUIN_ANOVA_TABLE.png](figures/ESSMETUIN_ANOVA_TABLE.png) | ESSMETUIN ANOVA table |
+| &emsp;🖼 [ESSEMETUIN_ANOVA_TABLE.png](figures/ESSMETUIN_ANOVA_TABLE.png) | ESSMETUIN ANOVA table |
 | 📄 [resistor_regression_report.pdf](report/resistor_regression_report.pdf) | Final project report |
 | 📄 [resistor_variance_slides.pdf](report/resistor_variance_slides.pdf) | Presentation slides |
 | 📄 [README.md](README.md) | Project documentation |
