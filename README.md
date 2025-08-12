@@ -4,8 +4,7 @@
 This project investigates the consistency and precision of resistors from two brands — **BOJACK** and **ESSMETUIN** — at three nominal resistance values: **10 Ω, 2 kΩ, and 1 MΩ**.  
 We used **statistical analysis** and **data visualization** to compare measurement deviations and determine if average percent error increases with resistance.
 
-The study was conducted as part of a group project for **[Course Name]**, with my individual contribution focused on **regression analysis using MATLAB**.
-
+The study was conducted as part of a group project for BE 2100: Basic Engineering III – Probability and Statistics, with my individual contribution focused on regression analysis using MATLAB.
 ---
 
 ## 🔍 My Role in the Project
