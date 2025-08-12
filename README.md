@@ -45,16 +45,16 @@ The study was conducted as part of a group project for **[Course Name]**, with m
 | Folder/File | Description |
 |-------------|-------------|
 | 📁 [analysis/](analysis) | MATLAB scripts for regression analysis |
-| └── 📄 [BE2100_FP1.m](analysis/BE2100_FP1.m) | MATLAB code for regression |
+| 📄 [BE2100_FP1.m](analysis/BE2100_FP1.m) | MATLAB code for regression |
 | 📁 [data/](data) | Raw resistor measurement data |
-| └── 📄 [resistor_data.csv](data/resistor_data.csv) | Dataset of resistor measurements |
+| 📄 [resistor_data.csv](data/resistor_data.csv) | Dataset of resistor measurements |
 | 📁 [figures/](figures) | Generated plots & images |
-| ├── 🖼 [regression_plot.png](figures/regression_plot.png) | Regression plot |
-| ├── 🖼 [boxplot.png](figures/boxplot.png) | Boxplot |
-| └── 🖼 [histogram.png](figures/histogram.png) | Histogram |
+| 🖼 [regression_plot.png](figures/regression_plot.png) | Regression plot |
+| 🖼 [boxplot.png](figures/boxplot.png) | Boxplot |
+| 🖼 [histogram.png](figures/histogram.png) | Histogram |
 | 📁 [report/](report) | Final report & presentation slides |
-| ├── 📄 [resistor_regression_report.pdf](report/resistor_regression_report.pdf) | Final project report |
-| └── 📄 [resistor_variance_slides.pdf](report/resistor_variance_slides.pdf) | Presentation slides |
+| 📄 [resistor_regression_report.pdf](report/resistor_regression_report.pdf) | Final project report |
+| 📄 [resistor_variance_slides.pdf](report/resistor_variance_slides.pdf) | Presentation slides |
 | 📄 [README.md](README.md) | Project documentation |
 | 📄 [LICENSE](LICENSE) | License file (MIT, Apache, etc.) |
 
