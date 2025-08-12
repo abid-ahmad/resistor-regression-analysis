@@ -45,7 +45,6 @@ The study was conducted as part of a group project for **[Course Name]**, with m
 | **Folder/File** | **Description** |
 |-----------------|-----------------|
 | 📄 [BE2100_FP1.m](analysis/BE2100_FP1.m) | MATLAB code for regression |
-| 📁 **[data/](data/)** | Raw resistor measurement data |
 | 📊 [resistor_data_bojack_essmetuin.csv](data/resistor_data_bojack_essmetuin.csv) | Dataset of resistor measurements (BOJACK & ESSMETUIN) |
 | 📁 **Figures** | Generated plots & images:<br><br> 
 | &emsp;🖼 [REGRESSION_PLOT.png](figures/REGRESSION_PLOT.png) | Regression plot |
