@@ -42,23 +42,23 @@ The study was conducted as part of a group project for **[Course Name]**, with m
 
 📦 **resistor-precision-analysis**  
 │  
-├── [analysis/](analysis) &nbsp;&nbsp;# MATLAB scripts for regression analysis  
+├── [**analysis/**](analysis) &nbsp;&nbsp;— MATLAB scripts for regression analysis  
 │&nbsp;&nbsp;&nbsp;&nbsp;└── [BE2100_FP1.m](analysis/BE2100_FP1.m)  
 │  
-├── [data/](data) &nbsp;&nbsp;# Raw resistor measurement data  
+├── [**data/**](data) &nbsp;&nbsp;— Raw resistor measurement data  
 │&nbsp;&nbsp;&nbsp;&nbsp;└── [resistor_data.csv](data/resistor_data.csv)  
 │  
-├── [figures/](figures) &nbsp;&nbsp;# Generated plots & images  
+├── [**figures/**](figures) &nbsp;&nbsp;— Generated plots & images  
 │&nbsp;&nbsp;&nbsp;&nbsp;├── [regression_plot.png](figures/regression_plot.png)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├── [boxplot.png](figures/boxplot.png)  
 │&nbsp;&nbsp;&nbsp;&nbsp;└── [histogram.png](figures/histogram.png)  
 │  
-├── [report/](report) &nbsp;&nbsp;# Final report & presentation slides  
+├── [**report/**](report) &nbsp;&nbsp;— Final report & presentation slides  
 │&nbsp;&nbsp;&nbsp;&nbsp;├── [resistor_regression_report.pdf](report/resistor_regression_report.pdf)  
 │&nbsp;&nbsp;&nbsp;&nbsp;└── [resistor_variance_slides.pdf](report/resistor_variance_slides.pdf)  
 │  
-├── [README.md](README.md) &nbsp;&nbsp;# Project documentation  
-└── [LICENSE](LICENSE) &nbsp;&nbsp;# License file (MIT, Apache, etc.)
+├── [**README.md**](README.md) &nbsp;&nbsp;— Project documentation  
+└── [**LICENSE**](LICENSE) &nbsp;&nbsp;— License file (MIT, Apache, etc.)
 
 ## 🧑‍💻 Author
 
