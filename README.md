@@ -67,3 +67,6 @@ Electrical & Computer Engineering
 Wayne State University  
 🔬 Focus: Data-driven hardware reliability & embedded systems
 🌐 [LinkedIn](https://www.linkedin.com/in/abid-ahmad-83bb0527b) 
+
+🔬 Focus: Data-driven hardware reliability & embedded systems  
+🌐 [LinkedIn](https://www.linkedin.com/in/abid-ahmad-83bb0527b) 
