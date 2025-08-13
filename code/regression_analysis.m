@@ -1,3 +1,19 @@
+% =========================================================
+% Regression Analysis – MATLAB Script
+% Author: Abid Ahmad
+% INSTRUCTIONS:
+% 1. Download or clone the repository from GitHub.
+% 2. Open MATLAB and set the working directory to the folder containing this file.
+% 3. Open "regression_analysis.m" in MATLAB.
+% 4. Press the "Run" button OR type `regression_analysis` in the Command Window.
+% 
+% This script will:
+% - Load resistor brand and resistance data.
+% - Perform regression analysis comparing average percent error vs resistance.
+% - Generate plots, regression equations, and statistical outputs.
+Note: No external data files are needed. Everything is embedded in this script.
+% =========================================================
+
 nominals = [10, 2000, 1e6];
 boj_10 = [10.15,10.12,10.2,10.12,10.06,10.03,10.05,10.04,10.11,10.07,...
 10.06,10.16,10.1,10.11,10.22,10.06,10.14,10.06,10.07,10.11,...
