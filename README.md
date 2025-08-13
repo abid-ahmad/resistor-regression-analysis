@@ -66,3 +66,5 @@ The study was conducted as part of a group project for **BE 2100: Basic Engineer
 Electrical & Computer Engineering  
 Wayne State University  
 🔬 Focus: Data-driven hardware reliability & embedded systems
+🌐 [LinkedIn](https://www.linkedin.com/in/abid-ahmad-83bb0527b) 
+
