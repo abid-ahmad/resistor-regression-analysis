@@ -48,7 +48,7 @@ The study was conducted as part of a group project for **BE 2100: Basic Engineer
 
 | **Folder/File** | **Description** |
 |-----------------|-----------------|
-📄 [regression_analysis.m](code/regression_analysis.m) | MATLAB code for regression\
+📄 [regression_analysis.m](code/regression_analysis.m) | MATLAB code for regression
 | 📊 [resistor_data_bojack_essmetuin.csv](data/resistor_data_bojack_essmetuin.csv) | Dataset of resistor measurements (BOJACK & ESSMETUIN) |
 | 📁 **Figures** | Generated plots & statistical tables |
 | &emsp;🖼 [REGRESSION_PLOT.png](figures/REGRESSION_PLOT.png) | Regression plot |
